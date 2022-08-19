@@ -9,9 +9,6 @@ Download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 **Using:**
 
 Content
-=====
-
-
 
 ---
 
@@ -49,6 +46,9 @@ int main()
 
 
 ### VSCode - C Sharp
+
+Install: 
+
 
 
 ### VSCode - Java
