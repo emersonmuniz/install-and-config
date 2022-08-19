@@ -10,7 +10,7 @@ Download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 Content
 =====
-[VSCode with C/C++][#VSCode - C/C++]
+[VSCode with C/C++](#VSCode - C/C++)
 
 
 
