@@ -7,8 +7,9 @@ Download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 ![](./images/001-VSCode.png)
 
 
-**Content**
-__TOC__
+**Contents**
+
+[VSCode and C/C++](#vscode---cc)
 
 ___
 
