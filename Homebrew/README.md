@@ -7,7 +7,7 @@ Home Page: [https://brew.sh/](https://brew.sh/)
 Packages List: [https://formulae.brew.sh/](https://formulae.brew.sh/)
 
 
-##### Basic Comands List
+## Basic Comands List
 
 
 | Description | Command |
