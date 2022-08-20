@@ -11,6 +11,7 @@ Download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 [VSCode and C/C++](#vscode---cc)
 [VSCode and C Sharp](#vscode---c-sharp)
+[VSCode and Java](#vscode---java)
 ___
 
 ### VSCode - C/C++
