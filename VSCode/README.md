@@ -85,6 +85,14 @@ dotnet run
 ---
 ### VSCode - Java
 
+Install: [Java JDK](https://www.oracle.com/java/technologies/downloads/#jdk18-mac)
+Install: [Language Support for Java™ by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+Install: [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+Install: [Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
+Install: [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
+Install: [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency)
+Install: [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+Install: [Install the Extension Pack for Java](vscode:extension/vscjava.vscode-java-pack)
 
 ---
 ### VSCode - PHP
