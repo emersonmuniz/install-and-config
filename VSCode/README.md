@@ -6,24 +6,23 @@ Download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ![](./images/001-VSCode.png)
 
-
-**Contents**
-
-[VSCode and C/C++](#vscode---cc)
-[VSCode and C Sharp](#vscode---c-sharp)
-[VSCode and Java](#vscode---java)
+## Contents
+- [VSCode and C/C++](#vscode---cc)
+- [VSCode and C#](#vscode---c)
+- [VSCode and Java](#vscode---java)
 ___
 
 ### VSCode - C/C++
 
 Install: [C++ extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
-Using **macOS**
-Check CLang is intalled on macOS
+For **macOS**
+Check CLang is intalled on *macOS*
+
 ```bash
 clang --version
 ```
-If is not installed try it.
+If is not installed, try it.
 ```bash
 xcode-select --install
 ```
@@ -36,62 +35,63 @@ using namespace std;
 
 int main()
 {
-
     cout << " Hello World... " << endl;
-
 }
-
 ```
 
 ---
 
-
-### VSCode - C Sharp
+### VSCode - C#
 
 Install: [.NET SDK](https://dotnet.microsoft.com/download)
-Install: [C Sharp Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
-Install: [F Sharp Extension](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
+Install: [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+Install: [F# Extension](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 
 Now check .NET version installed.
 ```bash
 dotnet --version
 ```
 
-Use Terminal do initialize a C Sharp.
+C#
+Use *Terminal* to initialize C#.
 ```bash
 dotnet new console
 ```
 
-Run using Terminal.
+Run using *Terminal*.
 ```bash
 dotnet run
 ```
 
-Use Terminal do initialize a F Sharp.
+F#
+Use *Terminal* do initialize a F#.
 ```bash
 dotnet new console -lang "F#"
 ```
 
-Open VSCode.
+Open *VSCode*.
 ```bash
 code .
 ```
 
-Run using Terminal.
+Run using *Terminal*.
 ```bash
 dotnet run
 ```
 
 
 ---
+
 ### VSCode - Java
 
-Install: [Install the Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+Install: [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 ---
+
 ### VSCode - PHP
 
 
 ---
+
 ### VSCode - Python
 
