@@ -11,6 +11,7 @@ Download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 [VSCode and C/C++](#vscode---cc)
 [VSCode and C Sharp](#vscode---c-sharp)
+[VSCode and Java](#vscode---java)
 ___
 
 ### VSCode - C/C++
@@ -49,7 +50,7 @@ int main()
 
 Install: [.NET SDK](https://dotnet.microsoft.com/download)
 Install: [C Sharp Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
-Intall: [F Sharp Extension](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
+Install: [F Sharp Extension](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 
 Now check .NET version installed.
 ```bash
@@ -85,14 +86,7 @@ dotnet run
 ---
 ### VSCode - Java
 
-Install: [Java JDK](https://www.oracle.com/java/technologies/downloads/#jdk18-mac)
-Install: [Language Support for Java™ by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
-Install: [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-Install: [Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
-Install: [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
-Install: [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency)
-Install: [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-Install: [Install the Extension Pack for Java](vscode:extension/vscjava.vscode-java-pack)
+Install: [Install the Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 ---
 ### VSCode - PHP
